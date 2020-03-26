@@ -45,7 +45,7 @@ setup(
                       'netCDF4>=1.3.0',
                       'pandas>=0.22.0',
                       'pyshp>=1.2.0',
-                      'cartopy>=0.15.1',
+#                      'cartopy>=0.15.1',
                       'Shapely>=1.6.0'],
     python_requires='>=3'
 )
